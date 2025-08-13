@@ -56,3 +56,7 @@ Dataset used: [Heart Disease – Kaggle](https://www.kaggle.com/datasets/johnsmi
 ### 7. Cross-Validation
 - Performed 5-fold cross-validation to check model stability.
 - Calculated average CV accuracy.
+
+## Prepared By
+Tanuja Deshmukh  
+AI & ML Internship – Task 5
